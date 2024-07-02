@@ -1,0 +1,13 @@
+langchain==0.2.5
+langchain-community==0.2.5
+langchain_openai==0.1.9
+langchain_experimental==0.0.61
+socksio==1.0.0
+streamlit==1.36.0
+openpyxl==3.1.4
+langchain_chroma==0.1.1
+volcengine==1.0.144
+qianfan==0.3.17.1
+dashscope==1.20.0
+protobuf==4.25.1
+pysqlite3-binary
