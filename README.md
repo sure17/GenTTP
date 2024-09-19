@@ -13,7 +13,7 @@ Chatbot Demo in: https://genttp.streamlit.app/ that provides malware analysis to
 
 ## Appendix
 
-This PDF document contains supplementary materials that expand on key details from the paper, including:
+avc.pdf contains supplementary materials that expand on key details from the paper, including:
 
 ### 1. Tables with Detailed Information
 - **Table 1**: Describes the context of deceptive and execution attack vectors (AVCs) used in the malware analysis.
